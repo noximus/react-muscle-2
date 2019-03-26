@@ -8,7 +8,11 @@ const SongDetail = ({ song }) => {
 
   return (
     <div>
-      {song.title}
+      <h3>Details for: </h3>
+      <p>
+        Title: {song.title}<br />
+        Duration: {song.duration}
+      </p>
     </div>
   );
 };
@@ -16,6 +20,4 @@ const mapStateToProps = state => ({
   song: state.selectedSong
 })
 
-export default connect(mapStateToProps, {
-
-})(SongDetail);
+export default connect(mapStateToProps)(SongDetail);
