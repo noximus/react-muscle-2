@@ -28,7 +28,7 @@ class SongList extends Component {
     );
   }
 }
-const mapStateToProps = state => (console.log(state.selectedSong),{
+const mapStateToProps = state => ({
   songs: state.songs
 })
 
