@@ -1,10 +1,10 @@
-# Project Title
+# React Redux Basic Component
 
-React Redux Basic Component
+Simple React Redux Component
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+So far this project is still using the basic creete-react-app.  So it's standard installation which is listen in details below.  
 
 ##Demo Link
 Open: [Demo Link](https://youthful-wright-f1dd69.netlify.com/)
