@@ -1,3 +1,14 @@
+# Project Title
+
+React Redux Basic Component
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+##Demo Link
+Open: [Demo Link](https://youthful-wright-f1dd69.netlify.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
