@@ -19,13 +19,3 @@ export default combineReducers({
   songs: songReducer,
   selectedSong: selectedSongReducer
 })
-// export default (state = songReducer, { type, payload }) => {
-//   switch (type) {
-
-//   case typeName:
-//     return { ...state, ...payload }
-
-//   default:
-//     return state
-//   }
-// }
